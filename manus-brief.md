@@ -10,26 +10,51 @@
 農家が日々の気づき・記録・判断をより自然に行えるよう、  
 会話するだけで作業記録・気象情報・生育状況を管理できます。
 
-**一言で言うと:** 「静かな信頼感」を持った、農業現場のための AI パートナー
+**デザインの一言:** 「静かな信頼感」を持った、農業現場のための AI パートナー
 
 ---
 
-## デザインの基準
+## 公式アセット URL（Design CDN）
 
-### Design DNA v1 — 現在の最高品質
+> すべて GitHub Pages から直接参照可能。画像を添付せず URL で渡せます。
 
-以下の5枚が NouMan の現時点での品質基準です。  
-**新しいデザインはすべてこれを超えることを目標にしてください。**
+### アプリアイコン
 
-| # | スクリーンショット | ヒーローメッセージ |
-|---|-----------------|----------------|
-| 01 | ![home](https://nixon0326.github.io/nouman-design/appstore/appstore_01_home_v1_20260708.png) | 観察を、未来の豊かさに。 |
-| 02 | ![weather](https://nixon0326.github.io/nouman-design/appstore/appstore_02_weather_v1_20260708.png) | 天候と過去の記憶から、次の「想定外」を先回り。 |
-| 03 | ![chat](https://nixon0326.github.io/nouman-design/appstore/appstore_03_chat_v1_20260708.png) | 正解は押し付けない。まずは現場の「違和感」を受け止める。 |
-| 04 | ![record](https://nixon0326.github.io/nouman-design/appstore/appstore_04_record_v1_20260708.png) | ただのつぶやきが、自動で「未来の資産」に変わる。 |
-| 05 | ![before_after](https://nixon0326.github.io/nouman-design/appstore/appstore_05_before_after_v1_20260708.png) | もう、面倒な入力に時間を奪われるのは終わりにしよう。 |
+```
+https://nixon0326.github.io/nouman-design/icon/icon-1024.png
+https://nixon0326.github.io/nouman-design/icon/icon-1024-transparent.png
+```
 
-**直接URLで参照する場合:**
+### ロゴ
+
+```
+https://nixon0326.github.io/nouman-design/logo/symbol-1024.png
+https://nixon0326.github.io/nouman-design/logo/symbol-1024-transparent.png
+https://nixon0326.github.io/nouman-design/logo/header.png
+```
+
+### ファビコン
+
+```
+https://nixon0326.github.io/nouman-design/favicon/favicon-32.png
+https://nixon0326.github.io/nouman-design/favicon/favicon-64.png
+https://nixon0326.github.io/nouman-design/favicon/favicon-512.png
+```
+
+### スプラッシュ
+
+```
+https://nixon0326.github.io/nouman-design/splash/splash-2048.png
+```
+
+### OGP
+
+```
+https://nixon0326.github.io/nouman-design/social/ogp-1200x630.png
+```
+
+### Design DNA v1（品質基準 — 必ず参照）
+
 ```
 https://nixon0326.github.io/nouman-design/appstore/appstore_01_home_v1_20260708.png
 https://nixon0326.github.io/nouman-design/appstore/appstore_02_weather_v1_20260708.png
@@ -45,13 +70,13 @@ https://nixon0326.github.io/nouman-design/appstore/appstore_05_before_after_v1_2
 | 名称 | Hex | 用途 |
 |------|-----|------|
 | Brand Green | `#4C8C5A` | メインアクセント（5〜10%のみ） |
+| Deep Green | `#1E3A2F` | プレミアム・暗背景（1%以下） |
 | Light Green | `#A8C59A` | ソフト背景・セカンダリ |
 | Beige | `#EAD9B5` | 温かみのある背景 |
-| Deep Green | `#1E3A2F` | プレミアム・暗背景（1%以下） |
 | Black | `#000000` | テキスト全般 |
 | White | `#FFFFFF` | 基本背景 |
 
-**絶対に守ること:** Brand Green をメイン背景に使わない / 承認なしに新色を追加しない
+**絶対に守ること:** Brand Green を背景として大きく使わない / 新色を承認なしに追加しない
 
 ---
 
@@ -71,7 +96,7 @@ https://nixon0326.github.io/nouman-design/appstore/appstore_05_before_after_v1_2
 2. **情報の階層を最小限に** — 見た瞬間に何が重要かわかること
 3. **哲学をヒーローに** — ロゴより言葉・ビジョンを前面に出す
 4. **装飾より伝達** — グラデーション・シャドウ・装飾的要素は使わない
-5. **グリーンはアクセント** — Brand Green は画面全体の 5〜10% のみ
+5. **グリーンはアクセント** — Brand Green は全体の 5〜10% のみ
 
 ---
 
@@ -94,6 +119,7 @@ https://nixon0326.github.io/nouman-design/appstore/appstore_05_before_after_v1_2
 | テキスト密度を高くする | 読者が圧倒される |
 | グラデーション・シャドウ | トレンドに見えて時代遅れ |
 | 英語概念名を UI に表示 | 農家に伝わらない |
+| Brand Green を背景に大きく使う | ブランドが安っぽく見える |
 
 ---
 
@@ -109,15 +135,9 @@ https://nixon0326.github.io/nouman-design/appstore/appstore_05_before_after_v1_2
 
 ## 全素材 URL
 
-→ [index.md](./index.md)
-
----
-
-## 詳細ブランドガイド
-
-→ [brand-guide-public.md](./brand-guide-public.md)
+→ https://nixon0326.github.io/nouman-design/index.md
 
 ---
 
 *NouMan Worker — あなたの畑の最強の相棒*  
-*Design Assets: https://github.com/nixon0326/nouman-design*
+*Design CDN: https://github.com/nixon0326/nouman-design*
