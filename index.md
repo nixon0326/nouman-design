@@ -61,7 +61,8 @@
 | 03 | チャット「正解は押し付けない。現場の違和感を受け止める。」 | https://nixon0326.github.io/nouman-design/appstore/appstore_03_chat_v1_20260708.png |
 | 04 | 自動記録「つぶやきが、未来の資産に変わる。」 | https://nixon0326.github.io/nouman-design/appstore/appstore_04_record_v1_20260708.png |
 | 05 | BEFORE/AFTER「面倒な入力に時間を奪われるのは終わりに。」 | https://nixon0326.github.io/nouman-design/appstore/appstore_05_before_after_v1_20260708.png |
-| 06 | **正解 #1**「話すだけで、記録が完成する。」機能バッジ型・CTA付き | https://nixon0326.github.io/nouman-design/appstore/appstore_06_voice_record_v2_20260709.png |
+| 06 | **正解 #1 [Format A]**「話すだけで、記録が完成する。」機能バッジ型・CTA付き | https://nixon0326.github.io/nouman-design/appstore/appstore_06_voice_record_v2_20260709.png |
+| 07 | **正解 #2 [Format B]**「話すだけで、記録が完成する。」音声録音UI・App Screenshot型 | https://nixon0326.github.io/nouman-design/appstore/appstore_07_voice_ui_v2_20260709.png |
 
 ---
 
