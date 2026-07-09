@@ -1,14 +1,21 @@
 # NouMan Brand Guide
 ## 公開用ブランドガイド
 
+> **一次情報（ブランド憲法）:** https://nixon0326.github.io/nouman-design/creative/BRAND_CONSTITUTION.md
+> このガイドは補足仕様です。色・ロゴ・思想の権威は Brand Constitution にあります。
+
 ---
 
 ## ブランドについて
 
 NouMan Worker は農業現場を支える AI アシスタントです。
 
+「会話と観察から農場の"記憶"を育て、AIが最適な判断をサポートするアプリ。」
+
 「静かな信頼感」と「農業現場への敬意」をデザインの軸に置いています。  
 Apple・MUJI のような「引き算の美学」を参照しています。
+
+**タグライン:** 観察を、未来の豊かさに。
 
 ---
 
@@ -16,12 +23,14 @@ Apple・MUJI のような「引き算の美学」を参照しています。
 
 | 名称 | Hex | 用途 |
 |------|-----|------|
-| Brand Green | `#4C8C5A` | メインアクセント・ボタン・ロゴ |
-| Deep Green | `#1E3A2F` | プレミアム用途・暗背景 |
+| Deep Forest | `#1E3A2F` | 最重要テキスト・見出し・最高の信頼感 |
+| Brand Green | `#4C8C5A` | メインアクセント・ボタン・ロゴ（画面の5〜10%のみ） |
 | Light Green | `#A8C59A` | ソフト背景・セカンダリ |
-| Beige | `#EAD9B5` | 温かみのある背景 |
-| Black | `#000000` | テキスト全般 |
+| Warm Beige | `#EAD9B5` | 温かみのある背景 |
+| Near Black | `#222222` | 本文テキスト全般（`#000000` は使わない） |
 | White | `#FFFFFF` | 基本背景 |
+
+**重要:** テキストには `#222222`（Near Black）を使用する。`#000000`（Pure Black）は使用しない。
 
 ---
 
@@ -29,9 +38,11 @@ Apple・MUJI のような「引き算の美学」を参照しています。
 
 | 言語 | フォント |
 |------|---------|
-| 日本語 本文 | Hiragino Sans / Yu Gothic |
-| 日本語 見出し | Noto Serif JP |
-| 英語 | Helvetica / Arial |
+| 日本語（本文・UI） | Hiragino Sans（ヒラギノ角ゴシック） |
+| 英語 | Helvetica Neue |
+| フォールバック | San Francisco (SF Pro) |
+
+**禁止:** 明朝体・手書き風フォント・過度に装飾的なフォント
 
 ---
 
@@ -58,6 +69,7 @@ Apple・MUJI のような「引き算の美学」を参照しています。
 - ロゴ・素材の改変
 - 承認なしの二次配布
 - ブランドカラーの単独使用（NouMan と無関係なコンテンツへの適用）
+- `#000000` Pure Black のテキストへの使用
 
 ---
 
@@ -68,6 +80,10 @@ Apple・MUJI のような「引き算の美学」を参照しています。
 - 最小使用サイズ: 16px
 - 背景色に応じてカラー版 / 白抜き版を使い分ける
 
+詳細なロゴの意味・アイコン思想 → [Brand Constitution](https://nixon0326.github.io/nouman-design/creative/BRAND_CONSTITUTION.md)
+
 ---
 
 *For detailed brand inquiries: dnishimatsu51@gmail.com*
+*Brand Constitution (Primary): https://nixon0326.github.io/nouman-design/creative/BRAND_CONSTITUTION.md*
+*Last Updated: 2026-07-09*

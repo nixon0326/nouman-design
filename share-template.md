@@ -1,5 +1,5 @@
 # NouMan — Manus 共有テンプレート集
-## Creative Director System v1.2 対応版
+## Creative Director System v1.3 対応版
 
 ---
 
@@ -18,7 +18,7 @@ NouMan Creative Director System
 
 https://nixon0326.github.io/nouman-design/creative/README_CREATIVE.md
 
-読み込みが完了したら「NouMan Creative Version X.X を読み込みました。
+読み込みが完了したら「NouMan Creative Version 1.3 を読み込みました。
 制作を開始します。」と報告してください。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -40,7 +40,7 @@ https://nixon0326.github.io/nouman-design/creative/README_CREATIVE.md
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-NouMan — 追加制作依頼（Creative Version 1.2）
+NouMan — 追加制作依頼（Creative Version 1.3）
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Creative Director System は読み込み済みです。
@@ -83,15 +83,16 @@ NouMan Creative DNA — 正解クリエイティブ追加
 | 用途 | URL |
 |------|-----|
 | **入口（これだけ渡す）** | https://nixon0326.github.io/nouman-design/creative/README_CREATIVE.md |
+| **Brand Constitution（ブランド憲法・一次情報）** | https://nixon0326.github.io/nouman-design/creative/BRAND_CONSTITUTION.md |
 | Creative Director System | https://nixon0326.github.io/nouman-design/creative/CREATIVE_DIRECTOR_SYSTEM.md |
 | Creative DNA | https://nixon0326.github.io/nouman-design/creative/CREATIVE_DNA.md |
 | Creative Review | https://nixon0326.github.io/nouman-design/creative/CREATIVE_REVIEW.md |
 | App Store Guideline | https://nixon0326.github.io/nouman-design/creative/APPSTORE_GUIDELINE.md |
-| Brand Guide | https://nixon0326.github.io/nouman-design/brand-guide-public.md |
+| Brand Guide（補足仕様） | https://nixon0326.github.io/nouman-design/brand-guide-public.md |
 | Gold Standard #06（Format A） | https://nixon0326.github.io/nouman-design/appstore/appstore_06_voice_record_v2_20260709.png |
 | Gold Standard #07（Format B） | https://nixon0326.github.io/nouman-design/appstore/appstore_07_voice_ui_v2_20260709.png |
 | 全素材 CDN | https://nixon0326.github.io/nouman-design/ |
 
 ---
 
-*Last Updated: 2026-07-09 | Creative Director System v1.2*
+*Last Updated: 2026-07-09 | Creative Director System v1.3*
