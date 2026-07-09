@@ -3,6 +3,8 @@
 **NouMan Worker** — 農業現場を支える AI アシスタント  
 **Design CDN** — `https://nixon0326.github.io/nouman-design/`
 
+> **リポジトリ運用ルール:** [REPOSITORY_POLICY.md](./REPOSITORY_POLICY.md)
+
 > このリポジトリは Manus・外部デザイナー・将来の AI が NouMan のデザイン資産を URL で参照するための公開 CDN です。
 > 内部思想・実装コード・ビジネス戦略は含みません。
 
