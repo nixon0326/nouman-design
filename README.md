@@ -10,9 +10,22 @@
 
 ## Manus へ — 作業開始前に
 
-1. **[manus-brief.md](./manus-brief.md)** を読む — ブランド・カラー・原則・禁止事項
-2. **[index.md](./index.md)** で必要な素材の URL を取得する
-3. Design DNA v1（`appstore/`）を品質基準として参照する
+1. **[creative/CREATIVE_DIRECTOR_SYSTEM.md](./creative/CREATIVE_DIRECTOR_SYSTEM.md)** — 役割・Design Flow・UI ルール（最初に読む）
+2. **[creative/CREATIVE_DNA.md](./creative/CREATIVE_DNA.md)** — NouMan 固有の広告遺伝子
+3. **[manus-brief.md](./manus-brief.md)** — ブランド・カラー・原則・禁止事項
+4. **[index.md](./index.md)** — 全素材の URL を取得する
+5. Design DNA v1（`appstore/`）を品質基準として目で確認する
+
+---
+
+## Creative Director System
+
+| ファイル | 内容 | URL |
+|---------|------|-----|
+| `CREATIVE_DIRECTOR_SYSTEM.md` | System Prompt・役割・Design Flow・UI ルール | https://nixon0326.github.io/nouman-design/creative/CREATIVE_DIRECTOR_SYSTEM.md |
+| `CREATIVE_DNA.md` | NouMan 広告の遺伝子・コピー・レイアウト・写真・禁止パターン | https://nixon0326.github.io/nouman-design/creative/CREATIVE_DNA.md |
+| `CREATIVE_REVIEW.md` | 制作後自己採点（100点満点・90点未満は再制作） | https://nixon0326.github.io/nouman-design/creative/CREATIVE_REVIEW.md |
+| `APPSTORE_GUIDELINE.md` | App Store 世界標準ルール・正解クリエイティブ学習ログ | https://nixon0326.github.io/nouman-design/creative/APPSTORE_GUIDELINE.md |
 
 ---
 
