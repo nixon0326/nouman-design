@@ -195,10 +195,10 @@ NouMan では制作速度よりもクオリティを優先します。
 失敗は **学習データ** である。
 
 **制作前に：**  
-過去の失敗を読む。
+過去の失敗を読む → [LEARNING_LOG.md](https://nixon0326.github.io/nouman-design/creative/LEARNING_LOG.md)
 
 **制作後に：**  
-今回の失敗を書く。
+今回の失敗を書く → LEARNING_LOG.md に追記する。
 
 同じ失敗を二度繰り返さない。
 
