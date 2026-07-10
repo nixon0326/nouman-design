@@ -63,6 +63,7 @@
 | 05 | BEFORE/AFTER「面倒な入力に時間を奪われるのは終わりに。」 | https://nixon0326.github.io/nouman-design/appstore/appstore_05_before_after_v1_20260708.png |
 | 06 | **正解 #1 [Format A]**「話すだけで、記録が完成する。」機能バッジ型・CTA付き | https://nixon0326.github.io/nouman-design/appstore/appstore_06_voice_record_v2_20260709.png |
 | 07 | **正解 #2 [Format B]**「話すだけで、記録が完成する。」音声録音UI・App Screenshot型 | https://nixon0326.github.io/nouman-design/appstore/appstore_07_voice_ui_v2_20260709.png |
+| 08 | **採用 #3 [Format A]**「明日の畑を、AIが先読みする。」天気・AIおすすめ特化・v45採用 | https://nixon0326.github.io/nouman-design/appstore/appstore_08_weather_v45_20260710.png |
 
 ---
 
